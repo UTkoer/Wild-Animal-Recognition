@@ -1,0 +1,9 @@
+
+.venv/
+.gradio/
+env/
+__pycache__/
+*.pth
+*.pt
+
+data/

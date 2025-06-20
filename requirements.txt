@@ -1,0 +1,9 @@
+#basic dependencies 
+torch==2.5.1+cu118
+torchvision==0.20.1+cu118
+torchaudio==2.5.1+cu118
+torchcam==0.4.0
+pillow==11.0.0
+gradio==5.34.0
+numpy==1.26.4
+tqdm==4.67.1
