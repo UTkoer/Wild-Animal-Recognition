@@ -6,3 +6,5 @@
  run train.py to start train.
 
  run gui_v2.py to launch gradio.
+
+ txt animal_into/animal_name.txt to fill your own animal introduction. 
