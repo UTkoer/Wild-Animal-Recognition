@@ -1,4 +1,5 @@
  A simple image classification project using pytorch 
+ ### You need to download dataset  ↓
  ### dataset: https://www.kaggle.com/datasets/alessiocorrado99/animals10
  ### 
  run spilt_data.py to splilt dataset.
