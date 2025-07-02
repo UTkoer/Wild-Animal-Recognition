@@ -2,10 +2,10 @@
  ### You need to download dataset  ↓
  ### dataset: https://www.kaggle.com/datasets/alessiocorrado99/animals10
  ### 
- #### run spilt_data.py to splilt dataset.
+ #### ① run spilt_data.py to splilt dataset.
  
- #### run train.py to start train.
+ #### ② run train.py to start train.
 
- #### run gui_v2.py to launch gradio.
+ #### ③ run gui_v2.py to launch gradio.
 
- #### text animal_into/animal_name.txt to fill your own animal introduction. 
+ #### ④ text animal_into/animal_name.txt to fill your own animal introduction. 
